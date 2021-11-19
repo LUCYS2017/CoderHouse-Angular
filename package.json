@@ -1,0 +1,11 @@
+{
+  "name": "desafiouno-amortizacioncredito-luzochoamarin",
+  "version": "1.0.0",
+  "description": "desafio uno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luz Ochoa",
+  "license": "MIT"
+}
